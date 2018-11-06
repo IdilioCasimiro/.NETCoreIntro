@@ -1,0 +1,4 @@
+C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\obj\Debug\netcoreapp2.1\.NETCoreIntro.csprojAssemblyReference.cache
+C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\obj\Debug\netcoreapp2.1\.NETCoreIntro.csproj.CoreCompileInputs.cache
+C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\obj\Debug\netcoreapp2.1\.NETCoreIntro.AssemblyInfoInputs.cache
+C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\obj\Debug\netcoreapp2.1\.NETCoreIntro.AssemblyInfo.cs
