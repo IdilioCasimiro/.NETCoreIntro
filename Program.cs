@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace .NETCoreIntro
+namespace NETCoreIntro
 {
     class Program
     {

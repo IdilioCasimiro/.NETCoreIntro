@@ -2,3 +2,10 @@ C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\obj\Debug\netcoreapp
 C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\obj\Debug\netcoreapp2.1\.NETCoreIntro.csproj.CoreCompileInputs.cache
 C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\obj\Debug\netcoreapp2.1\.NETCoreIntro.AssemblyInfoInputs.cache
 C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\obj\Debug\netcoreapp2.1\.NETCoreIntro.AssemblyInfo.cs
+C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\bin\Debug\netcoreapp2.1\.NETCoreIntro.deps.json
+C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\bin\Debug\netcoreapp2.1\.NETCoreIntro.runtimeconfig.json
+C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\bin\Debug\netcoreapp2.1\.NETCoreIntro.runtimeconfig.dev.json
+C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\bin\Debug\netcoreapp2.1\.NETCoreIntro.dll
+C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\bin\Debug\netcoreapp2.1\.NETCoreIntro.pdb
+C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\obj\Debug\netcoreapp2.1\.NETCoreIntro.dll
+C:\Users\IdílioCasimiro.AzureAD\source\repos\.NETCoreIntro\obj\Debug\netcoreapp2.1\.NETCoreIntro.pdb
